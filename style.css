@@ -6,4 +6,5 @@ h1{
 }
 table,th,td{
     border-collapse: collapse;
+    background-color: antiquewhite;
 }
